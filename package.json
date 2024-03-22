@@ -1,0 +1,33 @@
+{
+  "name": "cumbeatae",
+  "version": "1.0.0",
+  "description": "A package that uses Web3 to load the image files for cryptopunks",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TitoJohnston/cumbeatae.git"
+  },
+  "keywords": [
+    "vitae",
+    "icon",
+    "web3",
+    "ethereum"
+  ],
+  "author": "EttieJerde",
+  "license": "MIT",
+  "homepage": "https://github.com/TitoJohnston/cumbeatae.git",
+  "dependencies": {
+    "ethjs-provider-http": "^0.1.6",
+    "ethjs-query": "^0.2.6",
+    "file-system": "^2.2.2",
+    "path": "^0.12.7",
+    "web3": "^1.0.0-beta.36"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^3.5.3",
+    "express": "^4.15.3",
+    "request": "^2.81.0",
+    "jasmine-node": "^1.14.5"
+  }
+}
